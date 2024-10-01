@@ -23,7 +23,6 @@ Sou estudante de engenharia elétrica, além de gambiarrista semiprofissional, e
 <div style="display: inline_block"><br>
   <img align="center" alt="arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="raspberry" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
 </div>
 
 ##
